@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jmhammond.github.io/sitemap.xml
